@@ -1,0 +1,9 @@
+{
+  "additional_special_tokens": [
+    "<EOD>"
+  ],
+  "eos_token": "</s>",
+  "mask_token": "<mask_2>",
+  "pad_token": "<pad>",
+  "unk_token": "<unk>"
+}
